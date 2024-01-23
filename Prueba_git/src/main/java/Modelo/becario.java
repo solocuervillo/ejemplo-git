@@ -14,7 +14,7 @@ public class becario {
 		System.out.println("trabajo becario 7 dia");
 		System.out.println("trabajo becario 7 dia");
 		System.out.println("trabajo becario 10 dia");
-		System.out.println("trabajo becario 12 dia");
+		System.out.println("trabajo becario 16 dia");
 		
 	}
 
