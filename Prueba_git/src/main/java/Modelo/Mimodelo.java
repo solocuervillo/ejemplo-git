@@ -8,7 +8,8 @@ public class Mimodelo {
 		int numeroa = 6;
 		int resultado = numeroa;
 		return resultado;
-		// esto esta hecho desde github
+		// esto esta hec
+		ho desde github
 			
 		
 	}

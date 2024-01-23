@@ -8,7 +8,8 @@ public class Principal {
 		System.out.println("vamos");
 		System.out.println("comienzo programa");
 		System.out.println("1 accesogit hub");
-	     	System.out.println("version editada desde github_1");
+	     	Sy
+	     	stem.out.println("version editada desde github_1");
 	}
 
 }
